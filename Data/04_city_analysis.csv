@@ -1,0 +1,15 @@
+city,city_tier,review_count,avg_rating,avg_sentiment,negative_pct,positive_pct
+Mumbai,Tier 1,921,2.48,0.0509,42.9,43.4
+Delhi,Tier 1,818,2.47,0.06,42.5,43.2
+Bangalore,Tier 1,806,2.58,0.0855,39.6,46.5
+Hyderabad,Tier 1,475,2.48,0.0471,44.2,43.8
+Chennai,Tier 1,432,2.55,0.0821,38.4,44.0
+Pune,Tier 2,348,2.52,0.0704,38.5,44.5
+Kolkata,Tier 2,318,2.5,0.0786,42.5,45.6
+Ahmedabad,Tier 2,252,2.56,0.065,42.5,42.1
+Jaipur,Tier 2,180,2.42,0.0458,43.9,40.0
+Lucknow,Tier 2,148,2.51,0.0282,42.6,41.9
+Chandigarh,Tier 2,122,2.43,0.0534,39.3,41.8
+Surat,Tier 2,106,2.57,0.1195,35.8,51.9
+Indore,Tier 2,38,2.58,0.0973,39.5,52.6
+Coimbatore,Tier 2,36,2.42,0.1552,30.6,52.8

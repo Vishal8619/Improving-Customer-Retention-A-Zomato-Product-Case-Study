@@ -1,0 +1,10 @@
+topic,review_count,avg_rating,avg_sentiment,negative_count,positive_count,avg_thumbs_up,pct_of_total,negative_pct
+Delivery Delay,1610,2.43,0.0682,611,690,98.2,32.2,38.0
+Pricing & Charges,716,2.2,-0.0112,308,282,101.3,14.3,43.0
+Customer Support,502,1.61,-0.0547,253,146,106.0,10.0,50.4
+General Feedback,483,3.68,0.3817,123,360,101.4,9.7,25.5
+Food Quality,433,1.87,-0.3136,378,55,101.8,8.7,87.3
+Delivery Experience,400,2.42,0.1151,140,260,99.9,8.0,35.0
+App & UI Bugs,382,1.87,-0.1379,255,0,92.3,7.6,66.8
+Discounts & Offers,285,3.9,0.4677,0,229,97.1,5.7,0.0
+App UI/UX,189,4.48,0.4223,0,189,91.3,3.8,0.0
