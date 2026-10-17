@@ -26,7 +26,7 @@ and user churn.
 ---
 
 ## 📊 Key Findings
-- Analyzed **50,000+ Zomato Play Store reviews** (Jan 2024 – Jun 2025)
+- Analyzed **5,000+ Zomato Play Store reviews** (Jan 2024 – Jun 2025)
 - **Delivery delay = #1 pain point** — present in 48% of all 
   negative reviews
 - Post-delay average rating: **2.1 / 5.0** (vs 3.8 target)
