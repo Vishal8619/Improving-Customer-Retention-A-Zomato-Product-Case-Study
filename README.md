@@ -77,5 +77,5 @@ when a delivery exceeds its ETA:
 
 ## 📄 Documents
 - [Product Requirements Document (PRD)](/prd/)
-- [Interactive Dashboard](/dashboard/)
+- [Interactive Dashboard](/[dashboard](https://zomato-case-study-dashboard.streamlit.app/)/)
 - [Python Analysis Script](/analysis/)
